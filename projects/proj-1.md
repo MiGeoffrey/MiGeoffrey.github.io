@@ -71,5 +71,17 @@ image:
       image-caption: IMAGE TITLE
       image-copyright: © Geoffrey Migault
       image-number: 17
+    - image_path: /assets/img/projects/proj-1/P18.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 18
+    - image_path: /assets/img/projects/proj-1/P19.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 19
+    - image_path: /assets/img/projects/proj-1/P20.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 20
 ---
 
