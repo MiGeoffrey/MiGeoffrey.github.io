@@ -1,8 +1,89 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Paysages'
+image: 
+    - image_path: /assets/img/projects/proj-2/P1.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 1
+    - image_path: /assets/img/projects/proj-2/P2.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 2
+    - image_path: /assets/img/projects/proj-2/P3.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 3
+    - image_path: /assets/img/projects/proj-2/P4.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 4
+    - image_path: /assets/img/projects/proj-2/P5.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 5
+    - image_path: /assets/img/projects/proj-2/P6.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 6
+    - image_path: /assets/img/projects/proj-2/P7.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 7
+    - image_path: /assets/img/projects/proj-2/P8.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 8
+    - image_path: /assets/img/projects/proj-2/P9.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 9
+    - image_path: /assets/img/projects/proj-2/P10.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 10
+    - image_path: /assets/img/projects/proj-2/P11.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 11
+    - image_path: /assets/img/projects/proj-2/P12.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 12
+    - image_path: /assets/img/projects/proj-2/P13.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 13
+    - image_path: /assets/img/projects/proj-2/P14.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 14
+    - image_path: /assets/img/projects/proj-2/P15.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 15
+    - image_path: /assets/img/projects/proj-2/P16.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 16
+    - image_path: /assets/img/projects/proj-2/P17.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 17
+    - image_path: /assets/img/projects/proj-2/P18.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 18
+    - image_path: /assets/img/projects/proj-2/P19.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 19
+    - image_path: /assets/img/projects/proj-2/P20.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 20
+    - image_path: /assets/img/projects/proj-2/P21.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 21
 ---
-
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
