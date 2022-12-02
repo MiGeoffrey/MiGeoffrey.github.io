@@ -9,7 +9,7 @@ layout: default
   }
 
   .row>.column {
-    padding: 0 8px;
+    padding: 8px 8px 8px 8px;
   }
 
   .row:after {
@@ -50,7 +50,6 @@ layout: default
   }
 
   img {
-    padding: 3%;
     background-color: white;
   }
 
@@ -138,8 +137,8 @@ layout: default
 
   @media (max-width: 800px) {
     .modal-content {
-      left: 6%;
-      width: 86%;
+      left: 8%;
+      width: 82%;
     }
 
     .column {
@@ -164,14 +163,10 @@ layout: default
 <body>
 
   <div class="test-container">
-    <div class="row">
-      {% for image in page.image %}
-      <div class="column">
-        <img src={{ image.image_path }} style="width:96%" onclick="openModal();currentSlide({{ image.image-number }})"
-          class="hover-shadow cursor">
-      </div>
-      {% endfor %}
-    </div>
+    {% for image in page.image %}
+    <img src={{ image.image_path }} style="width:30%;padding:1%;" onclick="openModal();currentSlide({{ image.image-number }})"
+      class="hover-shadow cursor">
+    {% endfor %}
   </div>
 
   <div id="myModal" class="modal">
@@ -181,7 +176,7 @@ layout: default
 
       {% for image in page.image %}
       <div class="mySlides">
-          <img id="currentImg" src={{ image.image_path }} style="width:96%;transform:translateX(0%);">
+        <img id="currentImg" src={{ image.image_path }} style="width:93%;transform:translateX(1%);padding:3%;">
         <div class="caption-container">
           <p id="demo"></p>
         </div>
