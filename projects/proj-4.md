@@ -82,4 +82,8 @@ image:
       image-caption: IMAGE TITLE
       image-copyright: © Geoffrey Migault
       image-number: 20
+    - image_path: /assets/img/projects/proj-4/P21.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 21
 ---

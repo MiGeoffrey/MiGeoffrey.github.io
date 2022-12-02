@@ -30,4 +30,16 @@ image:
       image-caption: IMAGE TITLE
       image-copyright: © Geoffrey Migault
       image-number: 7
+    - image_path: /assets/img/projects/proj-3/P8.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 8
+    - image_path: /assets/img/projects/proj-3/P9.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 9
+    - image_path: /assets/img/projects/proj-3/P10.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 10
 ---

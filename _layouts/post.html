@@ -5,22 +5,7 @@ layout: default
 <style>
   .test-container {
     max-width: 1100px;
-    margin: auto;
-  }
-
-  .row>.column {
-    padding: 8px 8px 8px 8px;
-  }
-
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-  .column {
-    float: left;
-    width: 30%;
+    margin: auto;    
   }
 
   /* The Modal (background) */
@@ -41,7 +26,7 @@ layout: default
   .modal-content {
     margin: auto;
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 20%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -51,6 +36,7 @@ layout: default
 
   img {
     background-color: white;
+    width: 30%;
   }
 
   /* The Close Button */
@@ -141,10 +127,6 @@ layout: default
       width: 82%;
     }
 
-    .column {
-      width: 92%;
-    }
-
     .next {
       right: -10%;
     }
@@ -157,6 +139,10 @@ layout: default
       font-size: 12px;
     }
 
+    img {
+    width: 46%;
+  }
+
   }
 </style>
 
@@ -164,7 +150,7 @@ layout: default
 
   <div class="test-container">
     {% for image in page.image %}
-    <img src={{ image.image_path }} style="width:30%;padding:1%;" onclick="openModal();currentSlide({{ image.image-number }})"
+    <img src={{ image.image_path }} style="padding:1%;" onclick="openModal();currentSlide({{ image.image-number }})"
       class="hover-shadow cursor">
     {% endfor %}
   </div>
