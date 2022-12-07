@@ -13,9 +13,11 @@ menu:
 projects:
 - {name: 'Humains',   url: 'proj-1'}
 - {name: 'Paysages',   url: 'proj-2'}
-- {name: 'Insects', url: 'proj-3'}
+- {name: 'Petites bêtes', url: 'proj-3'}
 - {name: 'Paysages Humains',  url: 'proj-4'}
 - {name: 'Microscope',  url: 'proj-5'}
+- {name: 'Chrysanthèmiste',  url: 'proj-6'}
+- {name: 'Arbres',  url: 'proj-7'}
 
 #-------------------------------
 # Dessins Section

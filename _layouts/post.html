@@ -24,19 +24,31 @@ layout: default
 
   /* Modal Content */
   .modal-content {
-    margin: auto;
     position: absolute;
     top: 55%;
-    left: 20%;
+    left: 15%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    width: 60%;
+    width: 100%;
     max-width: 1200px;
   }
 
-  img {
+  #masonryImg {
     background-color: white;
     width: 30%;
+    padding:1%; 
+  }
+
+  #currentImg{
+    text-align: center;
+    max-height: 80vh;
+    width: auto;
+    max-width: 94%;
+    padding: 3%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
   }
 
   /* The Close Button */
@@ -88,7 +100,7 @@ layout: default
   }
 
   .prev {
-    left: -3%;
+    left: -5%;
   }
 
   /* On hover, add a black background color with a little bit see-through */
@@ -121,7 +133,7 @@ layout: default
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
-  @media (max-width: 800px) {
+  @media (max-width: 1550px) {
     .modal-content {
       left: 8%;
       width: 82%;
@@ -139,10 +151,6 @@ layout: default
       font-size: 12px;
     }
 
-    img {
-    width: 46%;
-  }
-
   }
 </style>
 
@@ -150,7 +158,7 @@ layout: default
 
   <div class="test-container">
     {% for image in page.image %}
-    <img src={{ image.image_path }} style="padding:1%;" onclick="openModal();currentSlide({{ image.image-number }})"
+    <img id="masonryImg" src={{ image.image_path }} onclick="openModal();currentSlide({{ image.image-number }})"
       class="hover-shadow cursor">
     {% endfor %}
   </div>
@@ -162,7 +170,7 @@ layout: default
 
       {% for image in page.image %}
       <div class="mySlides">
-        <img id="currentImg" src={{ image.image_path }} style="width:93%;transform:translateX(1%);padding:3%;">
+        <img id="currentImg" src={{ image.image_path }}>
         <div class="caption-container">
           <p id="demo"></p>
         </div>
