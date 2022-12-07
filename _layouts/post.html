@@ -25,7 +25,7 @@ layout: default
   /* Modal Content */
   .modal-content {
     position: absolute;
-    top: 55%;
+    top: 52%;
     left: 15%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -148,7 +148,7 @@ layout: default
     }
 
     .caption-container {
-      font-size: 12px;
+      font-size: 10px;
     }
 
   }
@@ -172,7 +172,7 @@ layout: default
       <div class="mySlides">
         <img id="currentImg" src={{ image.image_path }}>
         <div class="caption-container">
-          <p id="demo"></p>
+          <p id="demo"> {{ image.image-caption }} </p>
         </div>
       </div>
 
