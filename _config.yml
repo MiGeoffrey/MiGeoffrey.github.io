@@ -8,5 +8,5 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
 title:		   "MacroScope"
-description: "Powered by Jekyll and GitHub Pages"
-author:      "Geoffrey"
+description: "Macroscope: Portefolio de Geoffrey Migault, vous pouvez y voir une sélections de photos ainsi que des dessins."
+author:      "Geoffrey Migault"

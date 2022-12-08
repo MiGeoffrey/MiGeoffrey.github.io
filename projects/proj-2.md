@@ -71,11 +71,11 @@ image:
       image-copyright: (Creative Commons) Geoffrey Migault
       image-number: 17
     - image_path: /assets/img/projects/proj-2/P18.jpg
-      image-caption: Côte sauvage (Leica Q2, 28mm) 2021
+      image-caption: Côte sauvage (Canon AE1, 50mm, ILFORD FP4 Plus 125 36P) 2020
       image-copyright: (Creative Commons) Geoffrey Migault
       image-number: 18
     - image_path: /assets/img/projects/proj-2/P19.jpg
-      image-caption: Côte sauvage (Canon AE1, 50mm, ILFORD FP4 Plus 125 36P) 2010
+      image-caption: Côte sauvage (Canon AE1, 50mm, ILFORD FP4 Plus 125 36P) 2020
       image-copyright: (Creative Commons) Geoffrey Migault
       image-number: 19
     - image_path: /assets/img/projects/proj-2/P20.jpg
