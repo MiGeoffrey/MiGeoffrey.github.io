@@ -35,6 +35,7 @@ dessins:
 # Contact Section
 
 social:
+- {icon: 'github',    link: 'https://github.com/migeoffrey'}
 - {icon: 'gitlab',    link: 'https://gitlab.com/migeoffrey'}
 - {icon: 'envelope',  link: 'mailto:migault@protonmail.com'}
 

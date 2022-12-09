@@ -42,4 +42,12 @@ image:
       image-caption: IMAGE TITLE
       image-copyright: © Geoffrey Migault
       image-number: 10
+    - image_path: /assets/img/projects/proj-3/P11.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 11
+    - image_path: /assets/img/projects/proj-3/P12.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 12
 ---
