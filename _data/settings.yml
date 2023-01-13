@@ -4,8 +4,8 @@
 menu:
 - {name: 'Photos', url: 'photo'}
 - {name: 'Dessins', url: 'dessin'}
+- {name: 'Contact',  url: 'contact'}
 - {name: 'A propos', url: 'about'}
-# - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
