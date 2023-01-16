@@ -122,6 +122,54 @@ image:
       image-caption: IMAGE TITLE
       image-copyright: © Geoffrey Migault
       image-number: 30
+    - image_path: /assets/img/projects/proj-9/P31.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 31
+    - image_path: /assets/img/projects/proj-9/P32.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 32
+    - image_path: /assets/img/projects/proj-9/P33.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 33
+    - image_path: /assets/img/projects/proj-9/P34.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 34
+    - image_path: /assets/img/projects/proj-9/P35.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 35
+    - image_path: /assets/img/projects/proj-9/P36.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 36
+    - image_path: /assets/img/projects/proj-9/P37.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 37
+    - image_path: /assets/img/projects/proj-9/P38.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 38
+    - image_path: /assets/img/projects/proj-9/P39.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 39
+    - image_path: /assets/img/projects/proj-9/P40.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 40
+    - image_path: /assets/img/projects/proj-9/P41.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 41
+    - image_path: /assets/img/projects/proj-9/P42.jpg
+      image-caption: IMAGE TITLE
+      image-copyright: © Geoffrey Migault
+      image-number: 42
 ---
 
 

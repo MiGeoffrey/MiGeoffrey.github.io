@@ -90,4 +90,8 @@ image:
       image-caption: Bois de Melle (Canon AE1, 50mm, ILFORD FP4 Plus 125 36P) 2020
       image-copyright: (Creative Commons) Geoffrey Migault
       image-number: 22
+    - image_path: /assets/img/projects/proj-2/P23.jpg
+      image-caption: Drôme (Leica Q2, 28mm) 2022
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 23
 ---
