@@ -83,5 +83,49 @@ image:
       image-caption: Biarritz (Leica Q2, 28mm) 2021
       image-copyright: (Creative Commons) Geoffrey Migault
       image-number: 20
+    - image_path: /assets/img/projects/proj-1/P21.jpg
+      image-caption: (Leica Q2, 28mm)
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 21
+    - image_path: /assets/img/projects/proj-1/P22.jpg
+      image-caption: (Leica Q2, 28mm)
+      image-copyright: (Creative Commons)  Geoffrey Migault
+      image-number: 22
+    - image_path: /assets/img/projects/proj-1/P23.jpg
+      image-caption: 
+      image-copyright: (Creative Commons)  Geoffrey Migault
+      image-number: 23
+    - image_path: /assets/img/projects/proj-1/P24.jpg
+      image-caption: (Leica Q2, 28mm)
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 24
+    - image_path: /assets/img/projects/proj-1/P25.jpg
+      image-caption: (Leica Q2, 28mm)
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 25
+    - image_path: /assets/img/projects/proj-1/P26.jpg
+      image-caption: (Leica Q2, 28mm)
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 26
+    - image_path: /assets/img/projects/proj-1/P27.jpg
+      image-caption: 
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 27
+    - image_path: /assets/img/projects/proj-1/P28.jpg
+      image-caption: Bruges (Leica Q2, 28mm) 2021
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 28
+    - image_path: /assets/img/projects/proj-1/P29.jpg
+      image-caption: 
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 29
+    - image_path: /assets/img/projects/proj-1/P30.jpg
+      image-caption: 
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 30
+    - image_path: /assets/img/projects/proj-1/P31.jpg
+      image-caption: (Leica Q2, 28mm)
+      image-copyright: (Creative Commons) Geoffrey Migault
+      image-number: 31
 ---
 
