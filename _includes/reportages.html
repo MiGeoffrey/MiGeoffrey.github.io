@@ -1,0 +1,13 @@
+<section>
+  <div class="project-container">
+    {% for reportages in site.data.settings.reportages %}
+      <a href="{{ site.github.url }}/reportages/{{ reportages.url }}">
+        <div class="project-unit" data-folder="{{ site.github.url }}/reportages/{{ reportages.url }}" style="background-image: url({{ site.github.url }}/assets/img/reportages/{{ reportages.url }}/mainphoto.jpg)">
+          <div class="project-overlay">
+            <strong>{{ reportages.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
