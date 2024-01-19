@@ -162,7 +162,13 @@ image:
 
 
 ---
-<div style="text-align: justify" margin="5% auto">
-En plus d’être mon père, Patrick Migault est chrysanthémiste obtenteur. Pas facile à dire et pas facile à faire, son métier consiste à trouver de nouvelles variétés de chrysanthèmes. Pour cela, il combine les caractéristiques de différents chrysanthèmes en mélangeant leurs pollens. Tel un peintre, il utilise son pinceau et se substitue à l’abeille en brossant délicatement les fleurs qu’il désire croiser. Alors, la nature fait son travail en créant des graines qui donneront chacune une variété différente. Pour le chrysanthémiste s’ensuit un travail de sélection laborieux qui s’étend sur plusieurs années: partant d’une centaine de variétés, Patrick n’en sélectionnera que quelques unes qui seront vendues dans le monde entier. Ce portfolio montre le moment propice à la sélection, à la Toussaint, où les fleurs sont complètement épanouies. Chaque chrysanthème est scruté sous tous les angles, avec la forme et la couleur du feuillage comme toile de fond et la forme et la couleur des fleurs comme personnages principaux de ses oeuvres qui n’en portent pas le nom.
+<div style="text-align: justify">
+
+<h4>Chrysanthèmiste</h4> 
+
+  <p> 
+    En plus d’être mon père, Patrick Migault est chrysanthémiste obtenteur. Pas facile à dire et pas facile à faire, son métier consiste à trouver de nouvelles variétés de chrysanthèmes. Pour cela, il combine les caractéristiques de différents chrysanthèmes en mélangeant leurs pollens. Tel un peintre, il utilise son pinceau et se substitue à l’abeille en brossant délicatement les fleurs qu’il désire croiser. Alors, la nature fait son travail en créant des graines qui donneront chacune une variété différente. Pour le chrysanthémiste s’ensuit un travail de sélection laborieux qui s’étend sur plusieurs années: partant d’une centaine de variétés, Patrick n’en sélectionnera que quelques unes qui seront vendues dans le monde entier. Ce portfolio montre le moment propice à la sélection, à la Toussaint, où les fleurs sont complètement épanouies. Chaque chrysanthème est scruté sous tous les angles, avec la forme et la couleur du feuillage comme toile de fond et la forme et la couleur des fleurs comme personnages principaux de ses oeuvres qui n’en portent pas le nom.
+  </p>
+
 </div>
 ---

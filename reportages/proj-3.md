@@ -174,3 +174,14 @@ image:
 
 
 
+---
+<div style="text-align: justify">
+
+<h4>Léa Renard</h4> 
+
+  <p> 
+    Je vous propose un petit voyage dans l'univers de <a href="https://www.lea-renard.com/"> Léa Renard </a>, céramiste contemporaine. 
+  </p>
+
+</div>
+---
