@@ -2,7 +2,7 @@
 layout: post
 title: 'Pyrolyse Club'
 image: 
-    - image_path: /assets/img/projects/proj-2/P1.jpg
+    - image_path: /assets/img/reportages/proj-2/P1.jpg
       image-caption: IMAGE TITLE
       image-copyright: © Geoffrey Migault
       image-number: 1
@@ -101,3 +101,11 @@ image:
 ---
 
 
+---
+<div style="text-align: justify" margin="10%">
+  <h4>Pyrolyse Club</h4> 
+  <p>
+    En 2022, j’ai eu la chance de visiter le <a href="https://lemoulinagedechirols.org"> Moulinage de Chirols </a> et de rencontrer <a href="https://obisamandine0.wixsite.com/mambo-ceramic-la-vie"> Amandine </a>, <a href="https://clementinecausse.fr"> Clémentine </a> et <a href="https://luciemicheau.fr/"> Lucie</a>, alias le Pyrolyse Club, qui m’ont ouvert les portes de leur atelier de céramique. Le Pyrolyse Club, c’est l’atelier qu’elles ont en commun et c’est aussi leur laboratoire de recherche en céramique. J'ai pu les photographier dans leurs univers et pendant leurs travaux.
+  </p>
+</div>
+---
